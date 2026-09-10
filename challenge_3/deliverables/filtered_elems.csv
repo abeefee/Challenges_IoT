@@ -1,0 +1,97 @@
+No.,Timestamp,Sequence Number,Attribute,Status,Data Type,Data Value
+1,1778492357461,43,Active Power,Success,16-Bit Signed Integer,0
+
+2,1778492357461,43,RMS Current,Success,16-Bit Unsigned Integer,0
+
+3,1778492357461,43,RMS Voltage,Success,16-Bit Unsigned Integer,219
+
+4,1778492402573,68,Active Power,Success,16-Bit Signed Integer,0
+
+5,1778492402573,68,RMS Current,Success,16-Bit Unsigned Integer,0
+
+6,1778492402573,68,RMS Voltage,Success,16-Bit Unsigned Integer,220
+
+7,1778492412629,128,Active Power,Success,16-Bit Signed Integer,0
+
+8,1778492412629,128,RMS Current,Success,16-Bit Unsigned Integer,0
+
+9,1778492412629,128,RMS Voltage,Success,16-Bit Unsigned Integer,221
+
+10,1778492443704,245,Active Power,Success,16-Bit Signed Integer,0
+
+11,1778492443704,245,RMS Current,Success,16-Bit Unsigned Integer,0
+
+12,1778492443704,245,RMS Voltage,Success,16-Bit Unsigned Integer,219
+
+13,1778492448708,124,Active Power,Success,16-Bit Signed Integer,0
+
+14,1778492448708,124,RMS Current,Success,16-Bit Unsigned Integer,0
+
+15,1778492448708,124,RMS Voltage,Success,16-Bit Unsigned Integer,219
+
+16,1778492466735,11,Active Power,Success,16-Bit Signed Integer,0
+
+17,1778492466735,11,RMS Current,Success,16-Bit Unsigned Integer,0
+
+18,1778492466735,11,RMS Voltage,Success,16-Bit Unsigned Integer,221
+
+19,1778492481757,94,Active Power,Success,16-Bit Signed Integer,0
+
+20,1778492481757,94,RMS Current,Success,16-Bit Unsigned Integer,0
+
+21,1778492481757,94,RMS Voltage,Success,16-Bit Unsigned Integer,218
+
+22,1778492484761,155,Active Power,Success,16-Bit Signed Integer,0
+
+23,1778492484761,155,RMS Current,Success,16-Bit Unsigned Integer,0
+
+24,1778492484761,155,RMS Voltage,Success,16-Bit Unsigned Integer,219
+
+25,1778492488763,155,Active Power,Success,16-Bit Signed Integer,0
+
+26,1778492488763,155,RMS Current,Success,16-Bit Unsigned Integer,0
+
+27,1778492488763,155,RMS Voltage,Success,16-Bit Unsigned Integer,219
+
+28,1778492490764,11,Active Power,Success,16-Bit Signed Integer,0
+
+29,1778492490764,11,RMS Current,Success,16-Bit Unsigned Integer,0
+
+30,1778492490764,11,RMS Voltage,Success,16-Bit Unsigned Integer,219
+
+31,1778492497769,66,Active Power,Success,16-Bit Signed Integer,0
+
+32,1778492497769,66,RMS Current,Success,16-Bit Unsigned Integer,0
+
+33,1778492497769,66,RMS Voltage,Success,16-Bit Unsigned Integer,223
+
+34,1778492500803,199,Active Power,Success,16-Bit Signed Integer,0
+
+35,1778492500803,199,RMS Current,Success,16-Bit Unsigned Integer,0
+
+36,1778492500803,199,RMS Voltage,Success,16-Bit Unsigned Integer,220
+
+37,1778492504811,85,Active Power,Success,16-Bit Signed Integer,0
+
+38,1778492504811,85,RMS Current,Success,16-Bit Unsigned Integer,0
+
+39,1778492504811,85,RMS Voltage,Success,16-Bit Unsigned Integer,223
+
+40,1778492515820,185,Active Power,Success,16-Bit Signed Integer,0
+
+41,1778492515820,185,RMS Current,Success,16-Bit Unsigned Integer,0
+
+42,1778492515820,185,RMS Voltage,Success,16-Bit Unsigned Integer,218
+
+43,1778492519825,251,Active Power,Success,16-Bit Signed Integer,0
+
+44,1778492519825,251,RMS Current,Success,16-Bit Unsigned Integer,0
+
+45,1778492519825,251,RMS Voltage,Success,16-Bit Unsigned Integer,222
+
+46,1778492529870,125,Active Power,Success,16-Bit Signed Integer,0
+
+47,1778492529870,125,RMS Current,Success,16-Bit Unsigned Integer,0
+
+48,1778492529870,125,RMS Voltage,Success,16-Bit Unsigned Integer,219
+
